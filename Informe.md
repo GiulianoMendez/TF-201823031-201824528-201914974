@@ -1,7 +1,6 @@
-#Informe Trabajo Final Complejidad Algoritmica
+# *Informe Trabajo Final Complejidad Algoritmica*
 
-###Integrantes:
+### Integrantes:
 * Leonardo Grau
 * Bruno Palomino
 * Giuliano Mendez
-
