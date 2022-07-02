@@ -27,3 +27,8 @@ Se leen los archivos streets.txt, nodes,txt y edges,txt.
 Creamos una lista de adyasencia, simula los caminos existentes en cada una de las interscciones, con el conteo manual.
 
 Posteriormente se hizo uso de las funciones, trafiweigth el cual permite cambiar el paso de las aristas a ciertas horas, genera perlin noise, el cual crea una matriz de distribucion, luego varperlin noise, que ayuda a encontrar un numero aleatorio y encontrar el peso de los caminos
+
+### Conclusiones 
+Pudimos implementar los algoritmos Dijkstra unos de los algoritmos mas conocidos y utlizados en grafos para la busqueda de un camino mas corto.
+Habiendo desarrolado el grafo se ha incrementado el numero de posiblidades de rutas mas corta en funcion al tiempo o peso de la calle
+En este sentido la inclusion de variables en el proceso como latitud y longitud ayudo a encontrar las rutas mas adecuadas.
