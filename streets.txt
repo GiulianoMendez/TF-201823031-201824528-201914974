@@ -1,0 +1,296 @@
+Antártida Argentina
+Avenida 1
+Avenida 122
+Avenida 13
+Avenida 137
+Avenida 143
+Avenida 19
+Avenida 25
+Avenida 31
+Avenida 32
+Avenida 38
+Avenida 44
+Avenida 51
+Avenida 52
+Avenida 520
+Avenida 526
+Avenida 53
+Avenida 60
+Avenida 66
+Avenida 7
+Avenida 72
+Avenida Antártida Argentina
+Avenida Centenario
+Avenida Iraola
+Avenida del Petróleo Argentino
+Bicisenda
+Bicisenda Avenida 60
+Bicisenda Diagonal 73
+Bicisenda Plaza Moreno
+Bicisenda Plaza San Martín
+Boulevard 120
+Boulevard 81
+Boulevard 82
+Boulevard 83
+Boulevard 84
+Calle 1
+Calle 1 Bis
+Calle 10
+Calle 11
+Calle 115
+Calle 115 Bis
+Calle 116
+Calle 117
+Calle 118
+Calle 119
+Calle 12
+Calle 12 Bis
+Calle 120
+Calle 121
+Calle 122 Bis
+Calle 122N
+Calle 123
+Calle 123 Bis
+Calle 124
+Calle 124 Bis
+Calle 125
+Calle 126
+Calle 127
+Calle 128
+Calle 129
+Calle 13
+Calle 13 Bis
+Calle 130
+Calle 131
+Calle 132
+Calle 133
+Calle 133 Bis
+Calle 134
+Calle 134 Bis
+Calle 135
+Calle 136
+Calle 136 Bis
+Calle 138
+Calle 139
+Calle 14
+Calle 14 Bis
+Calle 140
+Calle 141
+Calle 141 Bis
+Calle 142
+Calle 144
+Calle 145
+Calle 15
+Calle 15 Bis
+Calle 16
+Calle 16 Bis
+Calle 17
+Calle 18
+Calle 19
+Calle 2
+Calle 2 Bis
+Calle 20
+Calle 21
+Calle 22
+Calle 23
+Calle 23 Bis
+Calle 24
+Calle 24 Bis
+Calle 26
+Calle 27
+Calle 28
+Calle 29
+Calle 3
+Calle 30
+Calle 33
+Calle 34
+Calle 35
+Calle 36
+Calle 37
+Calle 38
+Calle 39
+Calle 4
+Calle 4 Bis
+Calle 40
+Calle 41
+Calle 42
+Calle 42 Bis
+Calle 43
+Calle 43 Bis
+Calle 44
+Calle 45
+Calle 46
+Calle 47
+Calle 48
+Calle 48 Bis
+Calle 49
+Calle 49 Bis
+Calle 5
+Calle 50
+Calle 50 Bis
+Calle 51
+Calle 517
+Calle 518
+Calle 519
+Calle 52
+Calle 520
+Calle 520 Bis
+Calle 521
+Calle 521 Bis
+Calle 522
+Calle 522 Bis
+Calle 523
+Calle 523 Bis
+Calle 524
+Calle 524 Bis
+Calle 525
+Calle 525 Bis
+Calle 526
+Calle 526 Bis
+Calle 527
+Calle 528
+Calle 528 Bis
+Calle 529
+Calle 530
+Calle 531
+Calle 531 Bis
+Calle 54
+Calle 55
+Calle 56
+Calle 57
+Calle 57 Bis
+Calle 58
+Calle 59
+Calle 6
+Calle 6 Bis
+Calle 61
+Calle 62
+Calle 63
+Calle 64
+Calle 65
+Calle 66 Bis
+Calle 67
+Calle 68
+Calle 68 Bis
+Calle 69
+Calle 7
+Calle 70
+Calle 71
+Calle 71 Bis
+Calle 72 Bis
+Calle 73
+Calle 74
+Calle 75
+Calle 76
+Calle 76 Bis
+Calle 77
+Calle 77 Bis
+Calle 78
+Calle 78 A
+Calle 78 B
+Calle 78 Bis
+Calle 78 C
+Calle 78 D
+Calle 78 E
+Calle 78 F
+Calle 79
+Calle 79B
+Calle 8
+Calle 8 Bis
+Calle 80
+Calle 80 Bis
+Calle 81
+Calle 81 A
+Calle 81 B
+Calle 81 C
+Calle 81 D
+Calle 81A
+Calle 82
+Calle 82 B
+Calle 82 Bis
+Calle 82A
+Calle 83
+Calle 83A
+Calle 83B
+Calle 83C
+Calle 84
+Calle 84A
+Calle 84B
+Calle 84C
+Calle 84D
+Calle 84E
+Calle 85
+Calle 85 Bis
+Calle 86
+Calle 87
+Calle 88
+Calle 89
+Calle 9
+Calle 9 Bis
+Calle 90
+Calle Cuccolo
+Calleja Juan Prossi
+Camino General Belgrano
+Camino Gobernador Vergara
+Camino Parque Centenario
+Circuito Aeróbico Jorge Kistenmacher
+Colectora Antártida Argentina
+Colectora Avenida 13
+Corredor universitario
+Diagonal 105
+Diagonal 106
+Diagonal 107
+Diagonal 108
+Diagonal 109
+Diagonal 11
+Diagonal 110
+Diagonal 111
+Diagonal 112
+Diagonal 113
+Diagonal 114
+Diagonal 11A
+Diagonal 11B
+Diagonal 73
+Diagonal 74
+Diagonal 75
+Diagonal 76
+Diagonal 77
+Diagonal 78
+Diagonal 79
+Diagonal 80
+Diagonal 93
+Diagonal 94
+Diagonal 95
+Diagonal 96
+Doctor Alejandro Fleming
+Humanidades
+Iglesia San Benjamín
+Parque Juan Vucetich
+Pasaje Perito Francisco Pascasio Moreno
+Pasaje Profesor Doctor Mario Egidio Teruggi
+Plaza 19 de Noviembre
+Plaza Adolfo Alsina
+Plaza Almirante Guillermo Brown
+Plaza Dardo Rocha
+Plaza Domingo Matheu
+Plaza España
+Plaza General José de San Martín
+Plaza General Martín Miguel de Güemes
+Plaza General Olazábal
+Plaza Italia
+Plaza Juan D. Perón
+Plaza Juan José Paso
+Plaza Mariano Moreno
+Plaza Miguel de Azcuénaga
+Plaza Máximo Paz
+Plaza Presidente Domingo Faustino Sarmiento
+Plaza Valentín y Adolfo Alsina
+Presidente Hipólito Yrigoyen
+Reforma Universitaria
+Rotonda Avenida Iraola y Avenida Centenario
+Calle 32 Bis
+Calle 33 Bis
+Calle 34 Bis
+Calle 35 Bis
+Calle 36 Bis
+Calle 38 Bis
